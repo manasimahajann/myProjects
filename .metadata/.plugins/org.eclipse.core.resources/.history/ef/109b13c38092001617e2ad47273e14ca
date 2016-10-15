@@ -1,0 +1,16 @@
+
+public class CheckingAccount extends BankAccount{
+
+		private int remainingCheck;
+		
+		public CheckingAccount(){
+			super();
+			remainingCheck = 100;
+		}
+		
+		public CheckingAccount(String owner,double initialBalance, int remainingCheck){
+			this.remainingCheck = remainingCheck;
+			super(owner, initialBalance);
+			
+		}
+}

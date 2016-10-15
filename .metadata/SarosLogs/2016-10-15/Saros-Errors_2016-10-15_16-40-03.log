@@ -1,0 +1,2 @@
+WARN  2016-10-15 16:40:03,914 (StunServiceImpl.java:420) received no response from STUN server stunserver.org/69.172.201.153:3478 at local address /192.168.56.1:0
+WARN  2016-10-15 16:40:03,914 (StunServiceImpl.java:420) received no response from STUN server stunserver.org/69.172.201.153:3478 at local address /172.24.49.63:0

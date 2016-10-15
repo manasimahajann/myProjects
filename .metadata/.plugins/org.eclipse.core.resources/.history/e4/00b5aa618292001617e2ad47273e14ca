@@ -1,0 +1,5 @@
+
+public class CheckingAccountFees extends CheckingAccount {
+		private final double FEES = 10;
+		
+}

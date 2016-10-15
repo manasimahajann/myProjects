@@ -1,0 +1,10 @@
+package encapsulation;
+
+public class TestScorer {
+	public static void main(String[] args) {
+		CricketScorer scorer = new CricketScorer();
+		
+		scorer.scorer = scorer.scorer + 4;
+	}
+
+}

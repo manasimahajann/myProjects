@@ -1,0 +1,19 @@
+package encapsulation;
+
+public class CricketScorer {
+	int score;
+
+	public int getScore(){
+		return score;
+	}
+	
+	public four(){
+		score += 4;
+	}
+
+	public six(){
+		score += 6;
+	}
+
+
+}

@@ -1,0 +1,6 @@
+
+public class SavingsAccount extends BankAccount {
+
+	private final double INTERESTRATE = 0.05;
+	
+}
